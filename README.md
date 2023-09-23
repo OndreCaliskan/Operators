@@ -3,8 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="[![S4Vz6.gif](https://s10.gifyu.com/images/S4Vz6.gif)]" />
-
+![gif](https://github.com/OndreCaliskan/Operators/assets/144846150/57552d7f-789c-4db6-a1ea-581063020f54)
 </div>
 
 
