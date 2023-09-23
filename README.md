@@ -3,7 +3,8 @@
 ###
 
 <div align="center">
-![gif](https://github.com/OndreCaliskan/Operators/assets/144846150/57552d7f-789c-4db6-a1ea-581063020f54)
+  <img src="![gif](https://github.com/OndreCaliskan/Operators/assets/144846150/9771032a-c89b-4634-83d3-7cb4d0929399)" width="40" height="40" />
+
 </div>
 
 
