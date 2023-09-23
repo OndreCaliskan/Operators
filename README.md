@@ -3,8 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="[url=https://gifyu.com/image/S4VbO][img]https://s10.![S4VbO md](https://github.com/OndreCaliskan/Operators/assets/144846150/edc82856-58b8-4374-b319-57219b380915)
-gifyu.com/images/S4VbO.gif[/img][/url]"  />
+  <img height="200" src="https://s10.gifyu.com/images/S4VbO.gif"  />
 
   
 </div>
@@ -15,4 +14,3 @@ gifyu.com/images/S4VbO.gif[/img][/url]"  />
 
 ###
 
-![Uploading S4VbO.md.gif…]()
