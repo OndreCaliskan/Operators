@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="[![S4VbO.gif](https://s10.gifyu.com/images/S4VbO.gif)](https://gifyu.com/image/S4VbO)"  />
+  <img height="200" src="[url=https://gifyu.com/image/S4VbO][img]https://s10.gifyu.com/images/S4VbO.gif[/img][/url]"  />
 </div>
 
 ###
