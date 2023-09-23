@@ -4,6 +4,7 @@
 
 <div align="center">
   <img height="200" src="![Video_2023_09_23-2 (online-video-cutter com)](https://github.com/OndreCaliskan/Operators/assets/144846150/89acff3f-a17f-4f0d-bd36-0194aad8b6da)"  />
+![Video_2023_09_23-2 (online-video-cutter com)](https://github.com/OndreCaliskan/Operators/assets/144846150/6f9de2ff-f29e-44bd-8636-9ac38c066465)
 
   
 </div>
