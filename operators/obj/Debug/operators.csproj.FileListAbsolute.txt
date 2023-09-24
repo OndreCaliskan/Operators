@@ -1,0 +1,8 @@
+C:\Users\ondre\AcunMedya_egitim\operators\operators\bin\Debug\operators.exe.config
+C:\Users\ondre\AcunMedya_egitim\operators\operators\bin\Debug\operators.exe
+C:\Users\ondre\AcunMedya_egitim\operators\operators\bin\Debug\operators.pdb
+C:\Users\ondre\AcunMedya_egitim\operators\operators\obj\Debug\operators.csproj.AssemblyReference.cache
+C:\Users\ondre\AcunMedya_egitim\operators\operators\obj\Debug\operators.csproj.SuggestedBindingRedirects.cache
+C:\Users\ondre\AcunMedya_egitim\operators\operators\obj\Debug\operators.csproj.CoreCompileInputs.cache
+C:\Users\ondre\AcunMedya_egitim\operators\operators\obj\Debug\operators.exe
+C:\Users\ondre\AcunMedya_egitim\operators\operators\obj\Debug\operators.pdb
